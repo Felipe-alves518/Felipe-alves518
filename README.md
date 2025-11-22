@@ -3,7 +3,7 @@
 
 <div style="display:flex; flex-direction:column; justify-content:center;">
 
-- 👋 Olá, eu sou o Felipe Lima Alves, estudante de análise e desenvolvimento de Sistemas na Fatec São Paulo
+- 👋 Olá, eu sou o Felipe Lima Alves, estudante de análise e desenvolvimento de Sistemas (2 semestre) na Fatec São Paulo
 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-alves518&show_icons=true&theme=dark)
